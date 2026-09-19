@@ -2,8 +2,8 @@
 
 | Campo | Valor |
 |---|---|
-| **Squad** | [ Becasdss ] |
-| **Repositorio** | [ https://github.com/alexisaguirreflores20-blip/BecasDSS ] |
+| **Squad** |  Becasdss  |
+| **Repositorio** |  https://github.com/alexisaguirreflores20-blip/BecasDSS  |
 | **Versión** | 1.1 |
 | **Fecha** | 18/09/2026 |
 | **Materia** | Ingeniería en Sistemas – UPDS Tarija |
